@@ -31,7 +31,6 @@ const copyToclipboard = async () => {
     alert("Failed to copy!"); // Inform the user if copying failed
   }
 };
-
   return (
     <main className="h-screen w-full flex bg-slate-100 items-center justify-center">
       <form
